@@ -6,4 +6,4 @@
 ### The project utilizes the following data analytics tools and methodologies:The OpenWeatherMap API, the Google Maps Places API, the citipy library, Python, Pandas, Matplotlib, NumPy, SciPy, the gmaps plugin, JSON traversals, and Jupyter Notebook
 
 
-#### Kate was here
+#### Kate Pond was here
